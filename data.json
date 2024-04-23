@@ -1,0 +1,420 @@
+{
+  "1. Información de la entidad": {
+    "1. Volver.": {},
+    "2. Misión y Visión": {
+      "type": "text",
+      "data": {
+        "texto": "*Misión*: Afianzar el Municipio de San Pedro – Valle del Cauca, como entidad ​territorial autosostenible, con capacidad institucional, apostándole al desarrollo humano, garantizando el bienestar y la buena calidad de vida de sus habitantes con políticas públicas eficaces y de mejoramiento continuo, prestando los servicios públicos con calidad y eficiencia, propiciando el desarrollo económico, la productividad, haciéndolo competitivo, con integración regional, con participación activa de las organizaciones sociales y gremiales, con el compromiso, idoneidad, ética e integridad de los servidores públicos que conforman nuestra estructura orgánica, con buen manejo de los recursos económicos, físicos y naturales, actuando con transparencia y eficiencia en los procesos. \n\n*Visión*: Para el año 2030, el Municipio de San Pedro – Valle del Cauca, será un entidad territorial de construcción social, brindando bienestar, prosperidad, una mejor calidad de vida a sus habitantes, aprovechando su localización, la potencialidad e integración a la región, guardando el equilibrio con el medio ambiente, conservando la paz, la convivencia y la seguridad ciudadana, ayudando a consolidar su economía, el desarrollo de los sectores productivos y potencializando el recurso humano, respetuoso de las normas, con sentido de pertenencia, garantizando los derechos y la edificación colectiva de las oportunidades."
+      }
+    },
+    "3. Estructura orgánica / Organigrama": {
+      "type": "url",
+      "data": {
+        "texto": "Organigrama de la alcaldía de San pedro, Valle del Cauca; Por lo cual se representa gráficamente la estructura de entidad  que incluye las estructuras departamentales y las personas que las dirigen, hacen un esquema sobre las relaciones jerárquicas y competenciales.",
+        "url": "https://sanpedrovalledelcauca.micolombiadigital.gov.co/sites/sanpedrovalledelcauca/content/files/000629/31410_organigrama_1024x600.png"
+      }
+    },
+    "4. Directorio Institucional": {
+      "type": "text",
+      "data": {
+        "texto": "*Dirección* \nCalle 5 # 3-85 Esquina, Barrio El Centro | Código Postal: 763030 \n\n*Horario de atención* \nDe Lunes a Viernes, de 7:30 a.m. a 12:00 p.m. y de 1:30 p.m. a 6:00 p.m. \n\n*Ventanilla Única* \nSolo hasta las 04:00 p.m. \n\n*Teléfono Conmutador* \n(2) 223 83 56 \n\n*Línea de atención a PQRS* \n(2) 223 83 56 ext. 24 \n\n*Línea de atención gratuita* \n(2) 223 83 56 ext. 24 \n\n*Línea anticorrupción* \n(2) 223 83 56 ext. 24 \n\n*Correo institucional* \nalcaldia@sanpedro-valle.gov.co \n\n*Correo de notificaciones judiciales* \nalcaldia@sanpedro-valle.gov.co"
+      }
+    },
+    "5. Salir": {}
+  },
+  "2. Normatividad": {
+    "1. Volver.": {},
+    "2. Normatividad/leyes": {
+      "type": "urls",
+      "data": {
+        "urls": [
+          {
+            "nombre": "*Decretos*",
+            "desc": "Bienvenido al servicio de decretos municipales de San Pedro. Aquí puedes encontrar información detallada sobre los decretos emitidos por la alcaldía.",
+            "url": "https://www.sanpedro-valle.gov.co/tema/normatividad/decretos"
+          },
+          {
+            "nombre": "*Acuerdos*",
+            "desc": "Bienvenido al servicio de decretos municipales de San Pedro. Aquí puedes encontrar información detallada sobre los acuerdos emitidos por la alcaldía.",
+            "url": "https://www.sanpedro-valle.gov.co/tema/normatividad/acuerdos"
+          },
+          {
+            "nombre": "*Resoluciones*",
+            "desc": "Bienvenido al servicio de decretos municipales de San Pedro. Aquí puedes encontrar información detallada sobre los resoluciones emitidos por la alcaldía.",
+            "url": "https://www.sanpedro-valle.gov.co/tema/normatividad/resoluciones"
+          }
+        ]
+      }
+    },
+    "3. Búsqueda de normas": {
+      "type": "url",
+      "data": {
+        "texto": "Este es el portal donde podrás consultar toda la normatividad colombiana.",
+        "url": "https://www.suin-juriscol.gov.co/"
+      }
+    },
+    "4. Salir": {}
+  },
+  "3. Contratación": {
+    "1. Volver.": {},
+    "2. Plan Anual de Adquisiciones": {
+      "type": "url",
+      "data": {
+        "texto": "El Plan Anual de Adquisiciones de la Alcaldía de San Pedro Valle es un documento que establece las compras y contrataciones que la entidad tiene previstas durante el año fiscal. ",
+        "url": "https://www.sanpedro-valle.gov.co/tema/planes/plan-anual-de-adquisiciones"
+      }
+    },
+    "3. Información contractual": {
+      "type": "url",
+      "data": {
+        "texto": "La Información Contractual proporciona detalles sobre los contratos celebrados por la Alcaldía de San Pedro Valle, incluyendo información sobre proveedores, montos, fechas de inicio y término, y descripción de los servicios o bienes contratados. ",
+        "url": "https://www.sanpedro-valle.gov.co/tema/contrataciones"
+      }
+    },
+    "4. Ejecución de contratos": {
+      "type": "url",
+      "data": {
+        "texto": "La Ejecución de Contratos proporciona detalles sobre la implementación y cumplimiento de los contratos celebrados por la Alcaldía de San Pedro Valle. Incluye información sobre el progreso, cumplimiento de plazos, calidad de los servicios o bienes entregados, así como posibles modificaciones o ajustes realizados durante la ejecución del contrato.",
+        "url": "https://www.sanpedro-valle.gov.co/tema/ejecucion-de-contratos-176727"
+      }
+    },
+    "5. Manual de contratación": {
+      "type": "url",
+      "data": {
+        "texto": "El Manual de Contratación de la Alcaldía de San Pedro Valle es un documento que establece los procedimientos y lineamientos a seguir para la contratación de bienes, servicios y obras por parte de la entidad.",
+        "url": "https://www.sanpedro-valle.gov.co/politicas-y-lineamientos/manual-de-contratacion-alcaldia-de-san-pedro-2020-2023"
+      }
+    },
+    "6. Ley de garantías": {
+      "type": "url",
+      "data": {
+        "texto": "La Ley de Garantías es una normativa que regula las restricciones en la contratación pública durante periodos electorales en Colombia, incluyendo San Pedro Valle.",
+        "url": "https://www.sanpedro-valle.gov.co/personeria-municipal-897334/ley-de-garantias"
+      }
+    },
+    "7. Salir": {}
+  },
+  "4. Planeación": {
+    "1. Volver.": {},
+    "2. Proyectos de inversión": {
+      "type": "url",
+      "data": {
+        "texto": "Las entidades del estado, especialmente las Entidades Territoriales deben publicar sus planes de gasto público social de manera anual, acorde con lo estipulado en el artículo 74 de La Ley 1474 de 2011, la cual establece los lineamientos y componentes que conforman el plan de gasto para cada vigencia fiscal de manera específica. Puedes encontrar más información en el siguiente enlace 👉 ",
+        "url": "https://www.sanpedro-valle.gov.co/planes/plan-de-gasto-publico-2021"
+      }
+    },
+    "3. Ejecución presupuestal": {
+      "type": "url",
+      "data": {
+        "texto": "La ejecución presupuestal es el proceso mediante el cual se lleva a cabo la utilización de los recursos financieros asignados en el presupuesto de la Alcaldía de San Pedro Valle durante un periodo determinado. Puedes encontrar más información en el siguiente enlace 👉 ",
+        "url": "https://www.sanpedro-valle.gov.co/buscar?q=ejecucion%20presupuestal"
+      }
+    },
+    "4. Plan de acción": {
+      "type": "url",
+      "data": {
+        "texto": "El Plan de Acción de la Alcaldía de San Pedro Valle es un documento que establece las metas, objetivos y actividades a desarrollar durante un periodo determinado para alcanzar los objetivos estratégicos y satisfacer las necesidades de la comunidad. Puedes encontrar más información en el siguiente enlace 👉 ",
+        "url": "https://www.sanpedro-valle.gov.co/tema/procesos-y-procedimientos/adquisicion-y-compras"
+      }
+    },
+    "5. Programas y proyectos de inversion": {
+      "type": "url",
+      "data": {
+        "texto": "Los Programas y Proyectos de Inversión de la Alcaldía de San Pedro Valle son iniciativas estratégicas diseñadas para mejorar la calidad de vida de la comunidad y promover el desarrollo sostenible del municipio. Puedes encontrar más información en el siguiente enlace 👉 ",
+        "url": "https://www.sanpedro-valle.gov.co/tema/proyectos-en-ejecucion"
+      }
+    },
+    "6. Rendición de Cuentas": {
+      "type": "url",
+      "data": {
+        "texto": "La rendición de cuentas en la Alcaldía de San Pedro Valle es un proceso mediante el cual se informa a la ciudadanía sobre las acciones, decisiones y resultados obtenidos en la gestión pública. Puedes encontrar más información en el siguiente enlace 👉 ",
+        "url": "https://www.sanpedro-valle.gov.co/tema/control/informes-de-empalme"
+      }
+    },
+    "7. Informes de la Oficina de Control Interno": {
+      "type": "url",
+      "data": {
+        "texto": "Los informes de la Oficina de Control Interno de la Alcaldía de San Pedro Valle son documentos que recopilan evaluaciones, análisis y recomendaciones sobre la gestión administrativa y financiera de la entidad. Puedes encontrar más información en el siguiente enlace 👉 ",
+        "url": "https://www.sanpedro-valle.gov.co/buscar?q=control%20interno"
+      }
+    },
+    "8. Retos de Participación Ciudadana": {
+      "type": "url",
+      "data": {
+        "texto": "Los retos de participación ciudadana en la Alcaldía de San Pedro Valle incluyen la organización de capacitaciones y la promoción de territorios inteligentes. Puedes encontrar más información en el siguiente enlace 👉 ",
+        "url": "https://www.sanpedro-valle.gov.co/tema/retos-de-participacion"
+      }
+    },
+    "9. Salir": {}
+  },
+  "5. Trámites y servicios": {
+    "1. Volver.": {},
+    "2. Servicio al ciudadano": {
+      "type": "url",
+      "data": {
+        "texto": "Servicio al Ciudadano",
+        "url": "https://www.sanpedro-valle.gov.co/tema/servicio-al-ciudadano"
+      }
+    },
+    "3. Formatos Para Descargar": {
+      "type": "urls",
+      "data": {
+        "urls": [
+          {
+            "nombre": "*FORMATO PARA SOLICITAR LICENCIA DE SUBDIVISION O SEGREGACION DE UN PREDIO*",
+            "desc": "En la urbanística y la planificación urbana, se refiere a la división de terrenos grandes en lotes más pequeños para la construcción de viviendas o proyectos comerciales. ",
+            "url": "https://www.sanpedro-valle.gov.co/formatos-para-descargar/formato-para-solicitar-licencia-de-subdivision-o-segregacion"
+          },
+          {
+            "nombre": "*FORMATO PARA SOLICITAR EL CERTIFICADO DE NO RIESGO*",
+            "desc": "Información sobre si un predio está localizado en área urbana y si se encuentra o no en zona de riesgo, de acuerdo con sus condiciones físicas asociadas a factores de amenazas o riesgos naturales.",
+            "url": "https://www.sanpedro-valle.gov.co/formatos-para-descargar/formato-para-soliictar-el-certiifcado-de-no-riesgon"
+          },
+          {
+            "nombre": "*FORMATO PARA SOLICITAR CONCEPTO DE USO DE SUELO*",
+            "desc": "Los conceptos de uso de suelo son un requisito necesario para la operación de establecimientos de comercio y la expedición de permisos ambientales, entre otros, y también son utilizados por particulares para conocer qué uso puede dársele a determinado inmueble, de acuerdo con la normatividad vigente al momento de la expedición del concepto",
+            "url": "https://www.sanpedro-valle.gov.co/formatos-para-descargar/formato-para-solicitar--concepto-de-uso-de-suelo"
+          },
+          {
+            "nombre": "*FORMATO PARA SOLICITAR LINEA DE PARAMENTO*",
+            "desc": "Línea límite de las edificaciones que define el espacio disponible para la construcción según las normas urbanísticas.",
+            "url": "https://www.sanpedro-valle.gov.co/formatos-para-descargar/formato-para-solicitar-linea-de-paramento"
+          },
+          {
+            "nombre": "*FORMATO PARA DERECHO DE PETICIÓN*",
+            "desc": "El derecho de petición es un mecanismo legal que permite a los ciudadanos, en ejercicio de su derecho a la participación ciudadana, dirigirse a las autoridades para solicitar información, realizar peticiones, quejas, reclamos o solicitar la adopción de medidas sobre asuntos de interés general o particular.",
+            "url": "https://www.sanpedro-valle.gov.co/formatos-para-descargar/formato-para-derecho-de-peticion"
+          },
+          {
+            "nombre": "*FORMATO PARA SOLICITUD DE INFORMACIÓN*",
+            "desc": "El formato para solicitud de información se utiliza para requerir información específica a la alcaldía de San Pedro, de acuerdo con el derecho de acceso a la información pública. Este derecho permite a los ciudadanos solicitar información sobre las actividades y decisiones de las autoridades locales, con el fin de promover la transparencia y la rendición de cuentas.",
+            "url": "https://www.sanpedro-valle.gov.co/formatos-para-descargar/formato-para-solicitud-de-informacion"
+          },
+          {
+            "nombre": "*FORMATO DE SOLICITUD DE EXTRATIFICACION*",
+            "desc": "El formato de estratificación es una herramienta que facilita al ciudadano a realizar el tramite de forma veraz y sencilla. ",
+            "url": "https://www.sanpedro-valle.gov.co/formatos-para-descargar/formato-de-solicitud-de-extratificacion"
+          },
+          {
+            "nombre": "*CERTIFICADO DE USO DE SUELO*",
+            "desc": "El formato de uso de suelo facilita al ciudadano a realizar el tramite de una manera veraz y sencilla.",
+            "url": "https://www.sanpedro-valle.gov.co/formatos-para-descargar/certificado-de-uso-de-suelo"
+          },
+          {
+            "nombre": "*FORMATO DE SOLICITUD DE LICENCIA DE CONSTRUCCION*",
+            "desc": "Este formato es necesario para la diligenciar la solicitud de la licencia de construcción en la Secretaria de Planeacion del Municipio de San Pedro Valle  ",
+            "url": "https://www.sanpedro-valle.gov.co/formatos-para-descargar/formato-de-solicitud-de-licencia--de-construccion"
+          },
+          {
+            "nombre": "*FORMULARIO ÚNICO NACIONAL DE DECLARACIÓN Y PAGO DEL IMPUESTO DE INDUSTRIA Y COMERCIO*",
+            "desc": "Formato para descargar formulario único nacional de declaración y pago del impuesto de industria y comercio.",
+            "url": "https://www.sanpedro-valle.gov.co/formatos-para-descargar/formulario-unico-nacional-de-declaracion-y-pago-del"
+          },
+          {
+            "nombre": "*PAZ Y SALVO MUNICIPAL*",
+            "desc": "Formato para solicitar paz y salvo municipal San Pedro Valle",
+            "url": "https://www.sanpedro-valle.gov.co/formatos-para-descargar/paz-y-salvo-municipal"
+          },
+          {
+            "nombre": "*INSCRIPCION A INDUSTRIA Y COMERCIO*",
+            "desc": "Formato para inscripción a industria y comercio alcaldía municipal de San Pedro Valle",
+            "url": "https://www.sanpedro-valle.gov.co/formatos-para-descargar/inscripcion-a-industria-y-comercio"
+          },
+          {
+            "nombre": "*DECLARACION DE RETENCION EN LA FUENTE DEL IMPUESTO DE INDUSTRIA*",
+            "desc": "Formato para la declaración de retención en la fuente del impuesto de industria",
+            "url": "https://www.sanpedro-valle.gov.co/formatos-para-descargar/declaracion-de-retencion-en-la-fuente-del-impuesto-de"
+          },
+          {
+            "nombre": "*CERTIFICADO CATASTRAL MUNICIPAL*",
+            "desc": "Formato para solicitar certificado catastral municipal San Pedro Valle",
+            "url": "https://www.sanpedro-valle.gov.co/formatos-para-descargar/certificado-catastral-municipal"
+          },
+          {
+            "nombre": "*DECLARACIÓN DE INDUSTRIA Y COMERCIO*",
+            "desc": "Formato para el trámite de declaración de industria y comercio de la alcaldía municipal de San Pedro Valle",
+            "url": "https://www.sanpedro-valle.gov.co/formatos-para-descargar/declaracion-de-industria-y-comercio"
+          }
+        ]
+      }
+    },
+    "4. Principales Trámites y servicios": {
+      "type": "urls",
+      "data": {
+        "urls": [
+          {
+            "nombre": "*Consulta Registro Único Tributario (RUT)*",
+            "desc": "Este formato se utiliza para solicitar información relacionada con el Registro Único Tributario (RUT), un sistema de identificación utilizado por las autoridades tributarias para la administración y control de los contribuyentes.",
+            "url": "https://www.gov.co/ficha-tramites-y-servicios/T76859"
+          },
+          {
+            "nombre": "*Impuesto Predial Unificado*",
+            "desc": "Este formato se utiliza para solicitar información sobre el Impuesto Predial Unificado, un gravamen que recae sobre los propietarios de bienes inmuebles y que se destina al financiamiento de los gastos públicos municipales. ",
+            "url": "https://visorsuit.funcionpublica.gov.co/auth/visor?fi=69640"
+          },
+          {
+            "nombre": "*Permiso Para Espectáculos Públicos Diferentes A Las Artes Escénicas*",
+            "desc": "La solicitud de este permiso se refiere a eventos públicos que no están relacionados con las artes escénicas, como conciertos, festivales, ferias u otros eventos similares.",
+            "url": "https://visorsuit.funcionpublica.gov.co/auth/visor?fi=50084"
+          },
+          {
+            "nombre": "*Certificado De Paz Y Salvo*",
+            "desc": "El certificado de paz y salvo es un documento oficial emitido por la alcaldía de San Pedro que certifica que una persona o entidad ha cumplido con todas sus obligaciones fiscales y administrativas ante la municipalidad hasta la fecha de emisión del certificado.",
+            "url": "https://visorsuit.funcionpublica.gov.co/auth/visor?fi=49970"
+          },
+          {
+            "nombre": "*Concepto De Uso De Suelo*",
+            "desc": "Obtener el dictamen escrito sobre uso o usos permitidos en un predio o edificación, de conformidad con las normas urbanísticas del plan de ordenamiento territorial y los instrumentos que lo desarrollen.",
+            "url": "https://visorsuit.funcionpublica.gov.co/auth/visor?fi=62760"
+          }
+        ]
+      }
+    },
+    "5. Otros Trámites y servicios": {
+      "type": "url",
+      "data": {
+        "texto": "Aquí encontrarás una todos los trámites y servicios adicionales ofrecidos por la alcaldía de San Pedro Valle.",
+        "url": "https://www.sanpedro-valle.gov.co/tema/tramites-y-servicios"
+      }
+    },
+    "6. Líneas de atención ext.": {
+      "type": "url",
+      "data": {
+        "texto": "Extensiones para la atención al cliente.",
+        "url": "https://www.sanpedro-valle.gov.co/noticias/lineas-de-atencion-con-ext"
+      }
+    },
+    "7. Salir.": {}
+  },
+  "6. Participa": {
+    "1. Volver.": {},
+    "2. Descripción del menú participa": {
+      "type": "text",
+      "data": {"texto": "asdadsadasdasdasdasd asd asd asd asd asd asdasdasd ."}
+    },
+    "3. Salir": {}
+  },
+  "7. Datos abiertos": {
+    "1. Volver.": {},
+    "2. Instrumentos de gestión de la información": {
+      "type": "files",
+      "data": [
+        {
+          "nombre": "plan de adquisiciones 1",
+          "desc": "descripcion 1",
+          "url": "https://sanpedrovalledelcauca.micolombiadigital.gov.co/sites/sanpedrovalledelcauca/content/files/000705/35232_camscanner-26032024-1754.pdf"
+        },
+        {
+          "nombre": "plan de adquisiciones 2",
+          "desc": "descripcion 2",
+          "url": "https://sanpedrovalledelcauca.micolombiadigital.gov.co/sites/sanpedrovalledelcauca/content/files/000705/35232_camscanner-26032024-1754.pdf"
+        }
+      ]
+    },
+    "3. Salir": {}
+  },
+  "8. Información específica para grupos de interés": {
+    "1. Volver.": {},
+    "1. Niños y niñas": {
+      "type": "urls",
+      "data": [
+        {
+          "titulo": "publicación 1"                ,
+          "desc"  : "descripción de la publicación",
+          "url"   : "URL de la publicación"
+        },
+        {
+          "titulo": "publicación 2"                ,
+          "desc"  : "descripción de la publicación",
+          "url"   : "URL de la publicación"
+        },
+        {
+          "titulo": "publicación 3"                ,
+          "desc"  : "descripción de la publicación",
+          "url"   : "URL de la publicación"
+        },
+        {
+          "titulo": "publicación 4"                ,
+          "desc"  : "descripción de la publicación",
+          "url"   : "URL de la publicación"
+        },
+        {
+          "titulo": "publicación 5"                ,
+          "desc"  : "descripción de la publicación",
+          "url"   : "URL de la publicación"
+        }
+      ]
+    },
+    "3. Salir": {}
+  },
+  "9. Obligación de reporte de información específica por parte de la entidad": {
+    "1. Volver.": {},
+    "2. Información para niños, niñas y adolescentes": {
+      "type": "urls",
+      "data": [
+        {
+          "titulo": "publicación 1"                ,
+          "desc"  : "descripción de la publicación",
+          "url"   : "URL de la publicación"
+        },
+        {
+          "titulo": "publicación 2"                ,
+          "desc"  : "descripción de la publicación",
+          "url"   : "URL de la publicación"
+        },
+        {
+          "titulo": "publicación 3"                ,
+          "desc"  : "descripción de la publicación",
+          "url"   : "URL de la publicación"
+        },
+        {
+          "titulo": "publicación 4"                ,
+          "desc"  : "descripción de la publicación",
+          "url"   : "URL de la publicación"
+        },
+        {
+          "titulo": "publicación 5"                ,
+          "desc"  : "descripción de la publicación",
+          "url"   : "URL de la publicación"
+        }
+      ]
+    },
+    "3. Localización física, sucursales o regionales, horarios y días de atención al público": {
+      "type": "url",
+      "data": {
+        "texto": "Este es el portal donde podrás consultar toda la normatividad colombiana.",
+        "url": "https://www.suin-juriscol.gov.co/"
+      }
+    },
+    "4. Rendición de cuentas": {
+      "type": "textPdfs",
+      "data": {
+        "text": "asdasdasd asdads asdasdasd asd asdads asd asd *asdadadasd*  _asdasdasd_ asda dasdasd.",
+        "files": [
+          "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
+          "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+        ]
+      }
+    },
+    "5. Salir": {}
+  },
+  "10. Información tributaria en entidades territoriales locales": {
+    "1. Volver.": {},
+    "1. Información tributaria / Procesos de recaudo y de rentas locales": {
+      "type": "files",
+      "data": [
+        {
+          "nombre": "plan de adquisiciones 1",
+          "desc": "descripcion 1",
+          "url": "https://sanpedrovalledelcauca.micolombiadigital.gov.co/sites/sanpedrovalledelcauca/content/files/000705/35232_camscanner-26032024-1754.pdf"
+        },
+        {
+          "nombre": "plan de adquisiciones 2",
+          "desc": "descripcion 2",
+          "url": "https://sanpedrovalledelcauca.micolombiadigital.gov.co/sites/sanpedrovalledelcauca/content/files/000705/35232_camscanner-26032024-1754.pdf"
+        }
+      ]
+    },
+    "3. Salir": {}
+  }
+}
